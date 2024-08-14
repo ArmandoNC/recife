@@ -1,0 +1,65 @@
+[versions]
+agp = "8.5.1"
+coilCompose = "2.7.0"
+espressoIntents = "3.6.1"
+kotlin = "1.9.0"
+compose = "1.5.1"
+navigationCompose = "2.5.3"
+googleServices = "4.4.2"
+coreKtx = "1.13.1"
+junit = "4.13.2"
+junitVersion = "1.2.1"
+espressoCore = "3.6.1"
+lifecycleRuntimeKtx = "2.8.3"
+activityCompose = "1.9.0"
+composeBom = "2024.04.01"
+firebaseBom = "33.1.2"
+firebaseAnalyticsKtx = "22.0.2"
+firebaseAuthKtx = "23.0.0"
+firebaseFirestoreKtx = "25.0.0"
+firebaseStorageKtx = "21.0.0"
+firebaseMessagingKtx = "24.0.0"
+playServicesAuth = "21.2.0"
+rules = "1.6.1"
+firebaseMessaging = "24.0.0"
+material = "1.12.0"
+appcompat = "1.7.0"
+
+[libraries]
+androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version = "1.13.1" }
+androidx-espresso-accessibility = { module = "androidx.test.espresso:espresso-accessibility", version.ref = "espressoIntents" }
+androidx-espresso-contrib = { module = "androidx.test.espresso:espresso-contrib", version.ref = "espressoIntents" }
+androidx-espresso-intents = { module = "androidx.test.espresso:espresso-intents", version.ref = "espressoIntents" }
+androidx-espresso-web = { module = "androidx.test.espresso:espresso-web", version.ref = "espressoIntents" }
+androidx-idling-concurrent = { module = "androidx.test.espresso.idling:idling-concurrent", version.ref = "espressoIntents" }
+androidx-rules = { module = "androidx.test:rules", version.ref = "rules" }
+coil-compose = { module = "io.coil-kt:coil-compose", version.ref = "coilCompose" }
+firebase-perf = { module = "com.google.firebase:firebase-perf", version = "21.0.1" }
+junit = { group = "junit", name = "junit", version = "4.13.2" }
+androidx-junit = { group = "androidx.test.ext", name = "junit", version = "1.2.1" }
+androidx-espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version = "3.6.1" }
+androidx-lifecycle-runtime-ktx = { group = "androidx.lifecycle", name = "lifecycle-runtime-ktx", version = "2.8.4" }
+androidx-activity-compose = { group = "androidx.activity", name = "activity-compose", version = "1.9.1" }
+androidx-compose-bom = { group = "androidx.compose", name = "compose-bom", version = "2024.06.00" }
+androidx-ui = { group = "androidx.compose.ui", name = "ui", version = "1.6.8" }
+androidx-ui-graphics = { group = "androidx.compose.ui", name = "ui-graphics", version = "1.6.8" }
+androidx-ui-tooling = { group = "androidx.compose.ui", name = "ui-tooling", version = "1.6.8" }
+androidx-ui-tooling-preview = { group = "androidx.compose.ui", name = "ui-tooling-preview", version = "1.6.8" }
+androidx-ui-test-manifest = { group = "androidx.compose.ui", name = "ui-test-manifest", version = "1.6.8" }
+androidx-ui-test-junit4 = { group = "androidx.compose.ui", name = "ui-test-junit4", version = "1.6.8" }
+androidx-material3 = { group = "androidx.compose.material3", name = "material3", version = "1.2.1" }
+firebase-bom = { group = "com.google.firebase", name = "firebase-bom", version = "33.1.2" }
+firebase-analytics-ktx = { group = "com.google.firebase", name = "firebase-analytics-ktx", version = "22.0.2" }
+firebase-auth-ktx = { group = "com.google.firebase", name = "firebase-auth-ktx", version = "23.0.0" }
+firebase-firestore-ktx = { group = "com.google.firebase", name = "firebase-firestore-ktx", version = "25.0.0" }
+firebase-storage-ktx = { group = "com.google.firebase", name = "firebase-storage-ktx", version = "21.0.0" }
+firebase-messaging-ktx = { group = "com.google.firebase", name = "firebase-messaging-ktx", version = "24.0.0" }
+play-services-auth = { group = "com.google.android.gms", name = "play-services-auth", version = "21.2.0" }
+androidx-navigation-compose = { group = "androidx.navigation", name = "navigation-compose", version = "2.7.7" }
+firebase-messaging = { group = "com.google.firebase", name = "firebase-messaging", version = "24.0.0" }
+material = { group = "com.google.android.material", name = "material", version = "1.12.0" }
+androidx-appcompat = { group = "androidx.appcompat", name = "appcompat", version = "1.7.0" }
+[plugins]
+android-application = { id = "com.android.application", version.ref = "agp" }
+jetbrains-kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
+

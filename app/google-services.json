@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "477894395752",
+    "project_id": "kotlin-firebase-95d03",
+    "storage_bucket": "kotlin-firebase-95d03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477894395752:android:4bf58e06e3337a2e3038dd",
+        "android_client_info": {
+          "package_name": "pe.armando.recife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477894395752-6jmm0dvmfduqbacnf7ktkcnpmq2sm91j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.armando.recife",
+            "certificate_hash": "73018760ad84527d5b2a357ae385a42727195308"
+          }
+        },
+        {
+          "client_id": "477894395752-o0dt4i6n31qc4io78m5eoq2mo7kqqunv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZsH9OgcdU8D0t-RdN9DPG8cxNnsME0QU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477894395752-o0dt4i6n31qc4io78m5eoq2mo7kqqunv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Brand Colors -->
+    <color name="colorPrimary">#F44336</color> <!-- Rojo del logo -->
+    <color name="colorPrimaryDark">#D32F2F</color> <!-- Rojo más oscuro -->
+    <color name="colorAccent">#FF5252</color> <!-- Rojo claro como acento -->
+
+    <!-- Secondary Colors -->
+    <color name="colorSecondary">#000000</color> <!-- Negro -->
+    <color name="colorSecondaryVariant">#424242</color> <!-- Gris oscuro -->
+
+    <!-- Background Colors -->
+    <color name="background">#FFFFFF</color> <!-- Blanco -->
+    <color name="divider">#D3D3D3</color> <!-- Gris claro -->
+
+    <!-- Text Colors -->
+    <color name="textPrimary">#000000</color> <!-- Texto principal en negro -->
+    <color name="textSecondary">#757575</color> <!-- Texto secundario en gris -->
+
+    <!-- Button Colors -->
+    <color name="buttonPrimaryText">#FFFFFF</color> <!-- Texto de botones principales en blanco -->
+    <color name="buttonSecondaryText">#F44336</color> <!-- Texto de botones secundarios en rojo -->
+    <color name="buttonSecondaryBackground">#FFFFFF</color> <!-- Fondo de botones secundarios en blanco -->
+
+    <!-- Error and Warning Colors -->
+    <color name="error">#D32F2F</color> <!-- Rojo para errores -->
+    <color name="warning">#FF9800</color> <!-- Naranja para advertencias -->
+</resources>
